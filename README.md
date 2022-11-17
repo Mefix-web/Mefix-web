@@ -6,7 +6,6 @@
 
 - 🔭 I’m currently working on achieving certs for Azure and AWS.
 - 📫 How to reach me: radek.zudzin@gmail.com
-- 🌱 Additionally I’m currently learning python scripting and kubernetes
 
 
 
