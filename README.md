@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I'm Radek</h1>
 
 
-<h2 align="center"> A passionate Senior Linux Engineer</h2>
+<h2 align="center"> A passionate Senior DevOps/SysOps Engineer</h2>
 
 
 - 🔭 I’m currently working on achieving certs for Azure and AWS.
